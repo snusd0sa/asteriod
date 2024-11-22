@@ -1,0 +1,6 @@
+Just a file to be able to put some notes if switching between computers..
+
+
+python3 -m venv venv
+
+source venv/bin/activate
